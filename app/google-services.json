@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "314096247659",
+    "firebase_url": "https://batik-api-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "batik-api",
+    "storage_bucket": "batik-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314096247659:android:87a56c0c2d01069b84a22e",
+        "android_client_info": {
+          "package_name": "com.example.batika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314096247659-gbh4tkceqpdc1nf0o108a03qf6bvngn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeZU8pKAmwrUvl10u69mUIlzKfXzkK5xM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314096247659-gbh4tkceqpdc1nf0o108a03qf6bvngn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314096247659:android:976cac7f8138ad3e84a22e",
+        "android_client_info": {
+          "package_name": "com.example.batika2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314096247659-gbh4tkceqpdc1nf0o108a03qf6bvngn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeZU8pKAmwrUvl10u69mUIlzKfXzkK5xM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314096247659-gbh4tkceqpdc1nf0o108a03qf6bvngn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

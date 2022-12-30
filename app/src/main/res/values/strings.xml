@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Batika</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lipsum">          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempus pretium nisl, nec gravida nisi mattis quis. Sed elementum lorem sit amet diam aliquam molestie. Curabitur nisi diam, sollicitudin nec scelerisque blandit, egestas id purus.</string>
+</resources>
